@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+file:/E:/Default%20Java%20Projects/projecto%20clinica/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
+meta_index
