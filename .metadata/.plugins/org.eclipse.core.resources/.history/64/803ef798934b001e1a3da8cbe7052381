@@ -1,0 +1,6 @@
+package med.clinica.api.controller;
+
+public class MedicosController {
+	
+	
+}

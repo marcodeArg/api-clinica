@@ -1,0 +1,9 @@
+package med.clinica.api.controller;
+
+
+@RestController
+@RestMapping("/medicos")
+public class MedicosController {
+	
+	
+}
